@@ -1,0 +1,2 @@
+# yoshi
+PYTHON DJANGO OPENCV A.I
